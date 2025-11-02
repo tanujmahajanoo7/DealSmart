@@ -40,7 +40,4 @@ DealSmart/
 - Backend and Frontend can be developed and run independently
 - Ensure the backend API is running before starting the frontend development server
 
-## License
-
-[Add your license information here]
 
